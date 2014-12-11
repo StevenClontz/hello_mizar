@@ -1,2 +1,4 @@
 environ
+  vocabularies MY_MIZAR;
+
 begin
